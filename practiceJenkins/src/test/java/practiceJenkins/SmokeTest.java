@@ -2,9 +2,9 @@ package practiceJenkins;
 
 import org.testng.annotations.Test;
 
-public class SmokeTestCase2 {
+public class SmokeTest {
 	@Test
 	public void demo() {
-		System.out.println("2nd smoke test case is running");
+		System.out.println("belongs to smoke");
 	}
 }

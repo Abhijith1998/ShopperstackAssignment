@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="practiceJenkins.SmokeTestCase"/>
-      <class name="practiceJenkins.SmokeTestCase2"/>
+      <class name="practiceJenkins.RegressionTest"/>
+      <class name="practiceJenkins.SmokeTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
